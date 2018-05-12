@@ -1,0 +1,27 @@
+_repo: LadysmithThe-Diary-of-a-Siege_16603
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nevinson, Henry Woodd
+    alias: Nevinson, H. W. (Henry Woodd)
+    birthdate: 1856
+    deathdate: 1941
+    gutenberg_agent_id: '3828'
+    url: http://www.gutenberg.org/2009/agents/3828
+description: ''
+gutenberg_issued: '2005-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Ladysmith (South Africa) -- History -- Siege, 1899-1900'
+title: 'Ladysmith: The Diary of a Siege'
+url: http://www.gutenberg.org/ebooks/16603
